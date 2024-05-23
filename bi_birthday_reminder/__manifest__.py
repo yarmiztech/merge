@@ -14,7 +14,7 @@
 			send birthday wishes to customer, birthday wishes email to customer, Birthday Reminder email, Birthday Greetings email to customer. send birthday wishes to Partner, birthday wishes email to Partner, Birthday Reminder email, Birthday Greetings email to Partner. 
     ''',
 
-    "author": "Shareef-Enzapps Private Limited-calicut",
+    "author": "Shareef TM-Enzapps Private Limited-calicut",
 
 
     'website': 'https://www.enzapps.com',
